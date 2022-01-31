@@ -1,16 +1,16 @@
-# Robotic Craft Light Metals
+# B(L)ending Studio
 In this project we research the automatization of manufacturing metal profiles. More specifically the bending of structural profiles to precisely achieve a desired curve. In this project we explore the bending of aluminum profiles which are ideally shaped for lightweight reinforced structures in automotive and aerospace industries.
 
 The properties of this thin material allow for easier manufacturing, manipulation and transportation processes.
 
-![img src="1.Intro/1. aluminum sailboat structure.png" width="500"](1. aluminum sailboat structure.png)
+![src= 1.Intro/](1. aluminum sailboat structure.png)
 
-##1. Metal shaping methods
+## 1. Metal shaping methods
 
 Almost any metal manufacturing process can be either manually, motorized or automatically operated.
 
 
-Manual		>		Motorized		>		Automatic
+            > Manual		>		Motorized		>		Automatic
 
 ![](1. Intro\2. slip roll machine.png) ![](1. Intro\3.bending motorized.png) ![](1. Intro\4. bending automatic.png)
 
@@ -24,7 +24,7 @@ The dotted cases are still to be fully industrially developed to get the desired
 
 More exactly, we chose the “L” shaped angles, with identical wall lengths to ensure the biggest structural strength with the minimum amount of material with symmetrical results, also giving us the chance to test the deformation on both sides.
 
-##2. Computation & Workflow
+## 2. Computation & Workflow
 
 Fixing all other parameters, we variate the increment distance and study its relation to the change in the degree of curvature.
 
@@ -59,7 +59,7 @@ We used a physical paper template to compare all the curvatures on one single gr
 
 ![](1. Intro\Computation-workflow\Screenshot 2022-01-13 112015.png)
 
-##3. Design and Fabrication
+## 3. Design and Fabrication
 
 Our design intent was to create an organic modular shape that could interact with the reflection of the light where our metal structure would become the skeleton of our shape.
 
@@ -84,7 +84,7 @@ General dimensions
 ![](6. Fabrication\10. scale.png)
 Human scale
 
-###Structure and joints
+### Structure and joints
 
 The final structure would be built in 20x20 “L” shaped profiles made of aluminum 1050T alloy. This specific aluminum will give an even lighter condition and easier manufacturing in bending and assembling processes.
 
@@ -107,7 +107,7 @@ The 10 pieces of the structure would be joined together with 4mm rivets (2 on ev
 
 ![](6. Fabrication\12. rivets.png)
 
-###Fabrication processes
+### Fabrication processes
 
 In the profiles manufacturing we followed the next steps:
 
@@ -125,7 +125,7 @@ For the structure assembly, we first joined the structure with bolts, nuts and w
 ![](6. Fabrication\20. drilling holes.png)
 ![](6. Fabrication\21. filing holes.png)
 
-###Testing with light and reflection
+### Testing with light and reflection
 
 On our lighting test we worked on both a reflective material and direct illumination.
 The material we used as the skin test is a PVC and cotton based fabric with a mirror effect layer that while wrinkling it along the structure would give an interesting contrast over the aluminum skeleton, but not consistent enough.
@@ -136,6 +136,6 @@ Additionally, we tested a different lighting with direct illumination from RGB L
 
 ![](6. Fabrication\23. light test.png)
 
-##4. Potential and next steps
+## 4. Potential and next steps
 
 ![](1. Intro\Computation-workflow\big picture render_3_edit.png)
