@@ -3,7 +3,7 @@ In this project we research the automatization of manufacturing metal profiles. 
 
 The properties of this thin material allow for easier manufacturing, manipulation and transportation processes.
 
-![src= 1.Intro/](1. aluminum sailboat structure.png)
+![aluminum siailboat](https://drive.google.com/file/d/11HAawxmqGAW5WLWdzWiDyAIgmofnXw8t/view?usp=sharing)
 
 ## 1. Metal shaping methods
 
@@ -12,13 +12,14 @@ Almost any metal manufacturing process can be either manually, motorized or auto
 
             > Manual		>		Motorized		>		Automatic
 
-![](1. Intro\2. slip roll machine.png) ![](1. Intro\3.bending motorized.png) ![](1. Intro\4. bending automatic.png)
+![](https://drive.google.com/file/d/1lUnIVJtWsmflMPbB8j6kb_7rSe1u6xjB/view?usp=sharing) ![](https://drive.google.com/file/d/1YgiGy0HHsYXdPWbaxaMF11sFx-nYTCIb/view?usp=sharing)
+![](https://drive.google.com/file/d/1vbO3sTs7Uy9gr3DlemKTj-ZHiSbHtsGF/view?usp=sharing)
 
 In our case we wanted to develop an automatic process on aluminum angle bending, that implied a motorized process with a predictable result on the manufacturing from the design phase.
 
 On the following table, there is a comparison among the operational dimensions (in 1, 2 or 3 directions) of manufacturing 3 different shapes of metals.
 
-![](1. Intro\5. operation-table.png)
+![](https://drive.google.com/file/d/1HI2AzbSmUOEVHMsH98Rj4vUILcaBAbsg/view?usp=sharing)
 
 The dotted cases are still to be fully industrially developed to get the desired automatic process. Therefore, we are focused on the dynamic or non-regular deformation in 2 directions on metal angles and profiles.
 
