@@ -10,17 +10,17 @@ Aspects of geometry and computational design, joinery and structure, fabrication
 finishing were developed, with the ambition to generate novel aesthetic, spatial and performative
 qualities.
 
-![](ayebigbender.png)
-Aye Big Bender
+![ayebigbender](src/ayebigbender.png)
+*Aye Big Bender*
 
-![](blendingstudioI1.png)
-B(L)ending Studio
+![blendingstudio](src/blendingstudioI1.png)
+*B(L)ending Studio*
 
-![](foldedstaircase1.png)
-Folded Staircase
+![foldedstaircase](src/foldedstaircase1.png)
+*Folded Staircase*
 
-![](louvres1.png)
-Louvres
+![louvres](src/louvres1.png)
+*Louvres*
 
-![](metalbitches1.png)
-Metal Bitches
+![metalbitches](src/metalbitches1.png)
+*Metal Bitches*
