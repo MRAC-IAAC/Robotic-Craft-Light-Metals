@@ -1,6 +1,6 @@
-# Robotic-Craft-Light-Metals
+# Robotic Craft Light Metals
 
-Robotic Craft provided a framework for students to explore digital fabrication technologies and
+Robotic Craft provided a framework for MRAC students to explore digital fabrication technologies and
 workflows in architecture in the development of a design-and-make project, via a series of guided
 exercises involving manual experiments, digital design, detailing, hands-on prototyping, robotic
 processing and investigations of architectural visions. As a final physical artefact, 5 different groups built
