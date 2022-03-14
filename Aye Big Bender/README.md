@@ -14,24 +14,24 @@ By embedding data within form in this way – in this case, incident sunlight da
 
 We choose Valldaura Lab as our pavilion site and location for sunlight analysis.  Valldaura is a self-sufficient research centre in Barcelona, producing energy, food and things, and develops projects and academic programmes in association with leading research centres around the world.
 
-(img)
+![context-valldaura](1.Intro/src/context-valldaura.jpg)
 
 ### Solar analysis
 
 The radiation reaching Earth’s surface can be represented in a number of different ways. Global Horizontal Irradiance (GHI) is the total amount of shortwave radiation received from above by a surface horizontal to the ground.
 
-(img)
-(img)
-(img)
+![solar-analysis-1](1.Intro/src/solar-analysis-1.jpg)
+![solar-analysis-2](1.Intro/src/solar-analysis-2.jpg)
+![solar-analysis-3](1.Intro/src/solar-analysis-3.jpg)
 
 ### Shadow study
 
 The direct sun hours on the ground are affected by the building and incident surface.  A double-curved surface of 11.5 meters across and 3.2 meters high was set up as a prototype of a pavilion, in order to collect solar data from the environment.
 
-(img)
-(img)
-(img)
-(img)
+![shadow-study-1](1.Intro/src/shadow-study-1.jpg)
+![shadow-study-2](1.Intro/src/shadow-study-2.jpg)
+![shadow-study-3](1.Intro/src/shadow-study-3.jpg)
+![shadow-study-4](1.Intro/src/shadow-study-4.jpg)
 
 Parameters for estimating total amount of sunlight on an area include direct sun hours and incident radiation. We sought to embed this data to form a rebar frame with a gradient: areas with higher amounts of sunlight would have a higher density of coverage and therefore shadow.  In this way, the total sunlight received by any area inside the pavilion would be averaged with that of any other area, over time.
 
@@ -40,14 +40,14 @@ Parameters for estimating total amount of sunlight on an area include direct sun
 The structure of the pavilion can be seen as a series of longitudinal curves that run from the ground of one side of the pavilion, over the roof, to meet the ground again on the other side.  These longitudinal curves are connected by a series of transversal curves which zigzag between the longitudinal curves, connecting them along the length of the pavilion.  The density of these transversal zigzags is what provides most of the gradient shadow.
 
 There main iterations in the project design were longitudinal subdividing, curve division, offsetting alternate rows and automatically generating transversal curves. The folded plate structure and transversal curves provide more stability for standing as well as against wind resistance.
-(img)
+![Project-Development1](2.Project-Development/src/Project-Development1.jpg)
 (vid)
 
 ## Robotic exploration
 
 ### Process constraints
 
-(img)
+![end-effector1](3.End-effector/src/end-effector1.png)
 
 Springback – the elastic deformation part of a bend, which reverts once the bending force is removed. For a 4mm rebar, the plastic component varies with bend angle.  After multiple tests, we settled on an average overbend of ten degrees to give the closest desired result within the timeframe we had to plot this variation.
 
@@ -61,14 +61,14 @@ Most examples of robotic rod bending use the robot to pick and place rods, and a
 
 In order to mount the tool on a robot we had to make the tool compact and lightweight. An aluminum block was milled to accommodate screws to mount on the robot and holes tapped to accommodate fingers, which were large head M8 bolts.
 
-(img)
-(img)
+![end-effector2](3.End-effector/src/end-effector2.png)
+![end-effector3](3.End-effector/src/end-effector3.png)
 
 ### Table setup
 
 The table setup is a result of the vision to have minimal tools while making use of the robot’s maximum potential. Three major pieces of hardware are used in the process: a vice with a channel, a level guide, and an end effector on the robot.
 
-(img)
+![end-effector4](3.End-effector/src/end-effector4.png)
 
 ## Robotic Simulation
 
@@ -76,7 +76,7 @@ The table setup is a result of the vision to have minimal tools while making use
 
 ## Fabrication
 
-(img)
+![fabrication1](6.Fabrication/src/fabrication1.jpg)
 
 The design was iterated continuously through the process of making the end effector, judging the limitations of the rods, robot arm and environment set up, and how long each of these iterations took in relation to how much time there was to finish the project.
 
@@ -86,11 +86,11 @@ To present the scaled prototype, straight sections were added to the ground side
 
 ## prototype
 
-(img)
+![fabrication2](6.Fabrication/src/fabrication2.jpg)
 
 As a proof of concept, we fabricated one part of our design in 1:20 scale. Using 4mm rebar at this scale provided the necessary structural stability and the perception of being light.
 
-(img)
+![fabrication3](6.Fabrication/src/fabrication3.jpg)
 
 The prototype is essentially two sets of components: longitudinal and transverse. The transverse members provide the structural stability and the longitudinal members act as a guide to achieve a certain shape.
 
@@ -100,19 +100,19 @@ For the purpose of robotic fabrication the members had to be split into smaller 
 
 Each section was labeled with the code ‘S’ and suffixes ‘L’ and ‘T’ were added to denote longitudinal and transverse members of respective sections. The number suffixes indicate the sub members.
 
-(img)
-(gif)
+![fabrication4](6.Fabrication/src/fabrication4.jpg)
+![fabrication5](6.Fabrication/src/fabrication5.jpg)
 
 ## Collision
 
 
 Even with sub-division of members there were still collisions because of few complex members. Therefore, these members had to be further subdivided.
 
-(gif)
+![fabrication6](6.Fabrication/src/fabrication6.jpg)
 
 ### Welding
 
-(img)
+![fabrication7](6.Fabrication/src/fabrication7.jpg)
 
 ## Video
 
@@ -120,7 +120,7 @@ Even with sub-division of members there were still collisions because of few com
 
 ## What next?
 
-(img)
+![next](1.Intro//src/next.jpg)
 
 > Aye Big Bender // STUDIO I is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at Master in Robotics and Advanced Construction seminar in 2021/2022 by:
 Students: Shamanth Thenkan, Grace Boyle, Huanyu Li
